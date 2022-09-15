@@ -1,0 +1,15 @@
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.csproj.AssemblyReference.cache
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.AssemblyInfoInputs.cache
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.AssemblyInfo.cs
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.csproj.CoreCompileInputs.cache
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\bin\Debug\net6.0\Sem1Task4.exe
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\bin\Debug\net6.0\Sem1Task4.deps.json
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\bin\Debug\net6.0\Sem1Task4.runtimeconfig.json
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\bin\Debug\net6.0\Sem1Task4.dll
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\bin\Debug\net6.0\Sem1Task4.pdb
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.dll
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\refint\Sem1Task4.dll
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.pdb
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\Sem1Task4.genruntimeconfig.cache
+C:\Users\nesro\OneDrive\Рабочий стол\учеба\гб\GeekBrainsGit\GeekBrains\Sem1Task4\obj\Debug\net6.0\ref\Sem1Task4.dll
