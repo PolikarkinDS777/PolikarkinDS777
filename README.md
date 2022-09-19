@@ -30,3 +30,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolikarkinDS777&layout=compact&theme=vision-friendly-dark)]
