@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=PolikarkinDS777&style=flat-square&color=blue" alt=""/>
 <div>
 <h1>
-  Добро пожаловать!
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -14,7 +14,7 @@
 </div> 
   
 ### :man_technologist: О себе :  
-Меня зовут Эдуард. Я начинающий Data Scientist. С каждым днём я иду к своей главной цели. Стать профессионалом в данной области
+My name is Eduard. I'm a Data Scientist. Every day I realize my ideas and go towards my goal of becoming a successful Data Science professional
 
 ---
 
@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
 </div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolikarkinDS777&layout=compact&theme=vision-friendly-dark)
