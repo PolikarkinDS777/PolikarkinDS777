@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
   
-### :man_technologist: О себе :  
+### :man_technologist: About me:  
 My name is Eduard. I'm a Data Scientist. Every day I realize my ideas and go towards my goal of becoming a successful Data Science professional
 
 ---
