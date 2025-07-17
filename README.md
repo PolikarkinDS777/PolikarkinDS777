@@ -14,7 +14,9 @@
 </div> 
   
 ### :man_technologist: About me:  
-My name is Eduard. I'm a Data Scientist. Every day I realize my ideas and go towards my goal of becoming a successful Data Science professional
+My name is Eduard
+I’m a Data Scientist, Project Manager, and CEO of my own startups
+Every day, I transform ideas into real projects, automating and coding along the way
 
 ---
 
